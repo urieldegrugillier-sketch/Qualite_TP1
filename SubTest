@@ -1,0 +1,5 @@
+@Test
+public void testSub() {
+	Sub sub = new Sub();
+	assertEquals(2,sub.sub(5,3));
+}
